@@ -1,0 +1,2 @@
+Jetpack Compose Animation Guide
+In this article, you will learn how to create simple yet effective animations using Jetpack Compose. The guide includes examples such as color transitions, scaling, movement, rotation, heartbeat effects, and crossfade animations. Each animation is explained step by step, making it easy to follow along and implement in your own projects. Whether you are a beginner or experienced developer, this guide will help you bring your UI to life with animations!
